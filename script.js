@@ -6,9 +6,6 @@ document.getElementById("nav01").innerHTML =
 "<li><a href= 'index.html'>Home</a></li>" +
 "<li><a href= 'customers.html'>Data</a></li>" +
 "<li><a href='about.html'>About</a></li>" +
-<<<<<<< HEAD
-"<li><a href='bio.html'>JL Bio</a></li>" +
-=======
+"<li><a href='bio.html'>Jordan</a></li>" +
 "<li><a href='nickBio.html'>Nick Pesta/a></li>" +
->>>>>>> origin/dev
 "</ul>";
