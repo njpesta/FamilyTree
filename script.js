@@ -7,6 +7,5 @@ document.getElementById("nav01").innerHTML =
 "<li><a href= 'customers.html'>Data</a></li>" +
 "<li><a href='about.html'>About</a></li>" +
 "<li><a href='nickBio.html'>Nick Pesta</a></li>" +
-"<li><a href='bio.html'>Jordan</a></li>" +
-"<li><a href='nickBio.html'>Nick Pesta</a></li>" +
+"<li><a href='bio.html'>Jordan Landis</a></li>" +
 "</ul>";
